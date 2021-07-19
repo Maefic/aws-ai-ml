@@ -1,2 +1,9 @@
 boto3
 aws-cli
+moto
+pytest
+pylint
+sensible
+jupyter
+pytest-cov
+pandas
