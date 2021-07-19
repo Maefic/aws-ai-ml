@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 boto3
 aws-cli
 moto
@@ -7,3 +8,7 @@ sensible
 jupyter
 pytest-cov
 pandas
+=======
+awscli
+boto3
+>>>>>>> 22c5af6a7c98641f5fbe63b72b7fb8dcf7f139c4
